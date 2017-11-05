@@ -1,0 +1,50 @@
+/* navigation bar */
+.topnav {
+    background-color:lightpink;
+    overflow: visible;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: #696969;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: overline;
+    font-size: 17px;
+}
+.topnav {
+    background-color:dimgray;
+    overflow: visible;
+    border:1px solid #ccc;
+      border-width:1px 0;
+      list-style:none;
+      margin:0;
+      padding:0;
+      text-align:center;
+    }
+
+.topnav a
+    {
+    float: left;
+    display: block;
+    color: #FFB6C1;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: overline;
+    font-size: 17px;
+    }
+body 
+    {
+      background-color:#454545;
+      color:white;
+      text-align:center;
+    }
+/* text */
+h1 {
+color: pink;
+text-align: center;
+}
+
+p { 
+    font-size: 80px;
+}
